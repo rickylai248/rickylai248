@@ -4,8 +4,7 @@ I'm currently a second-year student at the University of British Columbia 🇨�
 
 😇 Pronouns: he/him
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickylai248)](https://github.com/anuraghazra/github-readme-stats&hide=stars,issues)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickylai248&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickylai248&hide=contribs,issues&count_private=true)
 <!--
 **rickylai248/rickylai248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 {
