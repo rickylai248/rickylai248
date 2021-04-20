@@ -3,6 +3,9 @@
 I'm currently a second-year student at the University of British Columbia 🇨🇦 completing a Combined Major in Computer Science and Business, and I'm passionate about technology, volunteering to help impoverished individuals in need, and learning new exciting things as a software / front-end web developer!
 
 😇 Pronouns: he/him
+
+[I'm an inline-style link with title](https://www.linkedin.com/in/rickylai248/ "My Linkedin")
+
 [![Repos Badge](https://badges.pufler.dev/repos/rickylai248)](https://badges.pufler.dev)
 <!--
 **rickylai248/rickylai248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
