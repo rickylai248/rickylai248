@@ -4,7 +4,6 @@ I'm currently a second-year student at the University of British Columbia 🇨�
 
 😇 Pronouns: he/him
 [![Repos Badge](https://badges.pufler.dev/repos/rickylai248)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/rickylai248/git-badges)](https://badges.pufler.dev)
 <!--
 **rickylai248/rickylai248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 {
