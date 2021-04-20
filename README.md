@@ -4,7 +4,7 @@ I'm currently a second-year student at the University of British Columbia 🇨�
 
 😇 Pronouns: he/him
 
-[I'm an inline-style link with title](https://www.linkedin.com/in/rickylai248/ "My Linkedin")
+[My Linkedin](https://www.linkedin.com/in/rickylai248/ "Ricky Lai Linkedin")
 
 [![Repos Badge](https://badges.pufler.dev/repos/rickylai248)](https://badges.pufler.dev)
 <!--
