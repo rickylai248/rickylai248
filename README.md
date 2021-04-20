@@ -6,7 +6,7 @@ I'm currently a second-year student at the University of British Columbia 🇨�
 
 [Linkedin](https://www.linkedin.com/in/rickylai248/ "Ricky Lai Linkedin")
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickylai248&hide=contribs,issues&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickylai248&hide=contribs,issues,stars&count_private=true&show_icons=true)
 <!--
 **rickylai248/rickylai248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 {
@@ -16,5 +16,5 @@ I'm currently a second-year student at the University of British Columbia 🇨�
   "location": "Vancouver, Canada",
  }
 [![Repos Badge](https://badges.pufler.dev/repos/rickylai248)](https://badges.pufler.dev)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickylai248&hide=contribs,issues&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickylai248&hide=contribs,issues,stars&count_private=true&show_icons=true)
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
