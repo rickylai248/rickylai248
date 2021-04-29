@@ -4,7 +4,9 @@ I'm currently a second-year student at the University of British Columbia 🇨�
 
 😇 Pronouns: he/him
 
-[Linkedin](https://www.linkedin.com/in/rickylai248/ "Ricky Lai Linkedin")
+[Linkedin Link](https://www.linkedin.com/in/rickylai248/ "Ricky Lai Linkedin")
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickylai248&hide=contribs,issues,stars&count_private=true&show_icons=true)
 
 <!--
 **rickylai248/rickylai248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
