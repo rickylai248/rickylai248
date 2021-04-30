@@ -11,7 +11,7 @@ I'm currently a second-year student at the University of British Columbia 🇨�
 **rickylai248/rickylai248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 {
   "Name": "Ricky Lai"
-  "University / Major": "UBC Business and Computer Science (BUCS) 2023 ",
+  "University / Specialization": "UBC Business and Computer Science (BUCS) 2023 ",
   "Position": "Software Developer @Building Blocks + incoming Front-end Web Developer Intern @sunrise international",
   "Location": "Vancouver, Canada",
  }
