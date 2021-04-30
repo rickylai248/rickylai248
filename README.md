@@ -10,10 +10,10 @@ I'm currently a second-year student at the University of British Columbia 🇨�
 <!--
 **rickylai248/rickylai248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 {
-  "name": "Ricky Lai"
-  "specialization": "ubc bucs '23 ",
-  "company": "@building blocks + incoming @sunrise international",
-  "location": "Vancouver, Canada",
+  "Name": "Ricky Lai"
+  "University / Major": "UBC Business and Computer Science (BUCS) 2023 ",
+  "Position": "Software Developer @Building Blocks + incoming Front-end Web Developer Intern @sunrise international",
+  "Location": "Vancouver, Canada",
  }
 [![Repos Badge](https://badges.pufler.dev/repos/rickylai248)](https://badges.pufler.dev)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickylai248&hide=contribs,issues,stars&count_private=true&show_icons=true)
