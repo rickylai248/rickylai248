@@ -13,7 +13,7 @@ I'm a second-year student at The University of British Columbia 🇨🇦 complet
   "Name": "Ricky Lai"
   "University / Specialization": "UBC Business and Computer Science (BUCS) 2023 ",
   "Position": "Software Developer @Building Blocks + Incoming Front-end Web Developer Intern @Sunrise International",
-  "Location": "Vancouver, Canada",
+  "Location": "Vancouver, BC, Canada",
  }
 [![Repos Badge](https://badges.pufler.dev/repos/rickylai248)](https://badges.pufler.dev)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickylai248&hide=contribs,issues,stars&count_private=true&show_icons=true)
