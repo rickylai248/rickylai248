@@ -1,6 +1,10 @@
 ### Hi there! 👋 I'm Ricky.
 
-I'm a second-year student at The University of British Columbia 🇨🇦 completing a Combined Major in Computer Science and Business, and I'm passionate about technology :octocat:, volunteering to help impoverished individuals in need, and learning new exciting things as a full-stack software / front-end developer!
+· I'm a second-year student at The University of British Columbia 🇨🇦
+
+· Completing a Combined Major in Computer Science and Business
+
+· I'm passionate about technology :octocat:, volunteering to help impoverished individuals in need, and learning new exciting things as a full-stack software / front-end developer!
 
 😇 Pronouns: he/him
 
