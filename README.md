@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Ricky.
 
-· I'm a second-year student at The University of British Columbia 🇨🇦
+· I'm a second-year student at The University of British Columbia (UBC) 🇨🇦
 
 · Completing a Combined Major in Computer Science and Business
 
