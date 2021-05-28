@@ -1,12 +1,12 @@
 ### Hi there! 👋 I'm Ricky.
 
-· I'm a second-year student at The University of British Columbia (UBC) 🇨🇦
+- I'm a second-year student at The University of British Columbia (UBC) 🇨🇦
 
-· Completing a Combined Major in Computer Science and Business
+- Completing a Combined Major in Computer Science and Business
 
-· I'm passionate about technology :octocat:, volunteering to help impoverished individuals in need, and learning new exciting things as a full-stack software / front-end developer!
+- I'm passionate about technology :octocat:, volunteering to help impoverished individuals in need, and learning new exciting things as a full-stack software / front-end developer!
 
-😇 Pronouns: he/him
+- 😇 Pronouns: he/him
 
 [Connect with me on Linkedin!](https://www.linkedin.com/in/rickylai248/ "Ricky Lai Linkedin")
 
