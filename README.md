@@ -1,10 +1,12 @@
 ### Hi there! 👋 I'm Ricky.
 
-- I'm a Computer Science and Business student at The University of British Columbia (UBC) 🇨🇦
+- I'm a Computer Science and Business student at the University of British Columbia (UBC)! 🇨🇦
 
-- I'm passionate about technology :octocat:, volunteering to help impoverished individuals in need, and learning new exciting things as a full-stack software developer!
+- I'm passionate about technology :octocat:, volunteering to help impoverished individuals in need 🌱, and learning new exciting things as a full-stack software developer! 📚
 
-- 😇 Pronouns: he/him | [Connect with me on Linkedin!](https://www.linkedin.com/in/rickylai248/ "Ricky Lai Linkedin")
+- 😇 Pronouns: he/him | Love practicing different languages 🏳️
+
+- [Connect with me on Linkedin!](https://www.linkedin.com/in/rickylai248/ "Ricky Lai Linkedin")
 
 <a> <img height="125.3px" src="https://github-readme-stats.vercel.app/api?username=rickylai248&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide=issues&text_color=000&icon_color=000&bg_color=0&theme=graywhite" /><!-- wi*quL3fcV --><img height="130.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickylai248&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=r=0,ea6161&theme=graywhite" /></a>
 <!--
