@@ -2,7 +2,7 @@
 
 - I'm a Computer Science and Business student at The University of British Columbia (UBC) 🇨🇦
 
-- I'm passionate about technology :octocat:, volunteering to help impoverished individuals in need, and learning new exciting things as a full-stack software / front-end developer!
+- I'm passionate about technology :octocat:, volunteering to help impoverished individuals in need, and learning new exciting things as a full-stack software developer!
 
 - 😇 Pronouns: he/him | [Connect with me on Linkedin!](https://www.linkedin.com/in/rickylai248/ "Ricky Lai Linkedin")
 
