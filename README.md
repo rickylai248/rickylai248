@@ -2,7 +2,7 @@
 - Computer Science and Business at the University of British Columbia (UBC)! 🇨🇦
 - Passionate about technology :octocat:, volunteering to help impoverished individuals 🌱, learning new software development tools!📚
 - 😇  Pronouns: he/him 
-- Currently learning French 🇫🇷, Cantonese, and Mandarin 🍊 
+- Multilingual: Learning French 🇫🇷, Cantonese, and Mandarin 🍊 
 - 📂  I’m looking to contribute to open source software
 - ☕  Ask me about automobiles, debate, and tea
 - Connect with me on [Linkedin!](https://www.linkedin.com/in/rickylai248/ "Ricky Lai Linkedin") 🔗
