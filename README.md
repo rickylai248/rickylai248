@@ -1,6 +1,7 @@
 ### Hello World! I'm Ricky Lai 👋
 - Computer Science and Business at the University of British Columbia (UBC)! 🇨🇦
 - Passionate about technology :octocat:, volunteering to help impoverished individuals 🌱, learning new software development tools!📚
+### 📘 About Me
 - 😇  Pronouns: he/him 
 - Multilingual: Learning French 🇫🇷, Cantonese, and Mandarin 🍊 
 - 📂  I’m looking to contribute to open source software
