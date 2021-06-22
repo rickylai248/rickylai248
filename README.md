@@ -1,7 +1,6 @@
-### Hi there! 👋 I'm Ricky.
-
-- I'm a Computer Science and Business student at the University of British Columbia (UBC)! 🇨🇦
-- I'm passionate about technology :octocat:, volunteering to help impoverished individuals in need 🌱, and learning new exciting things as a full-stack software developer! 📚
+### Hello World! I'm Ricky Lai 👋
+- Computer Science and Business at the University of British Columbia (UBC)! 🇨🇦
+- Passionate about technology :octocat:, volunteering to help impoverished individuals 🌱, and learning new exciting things as a full-stack software developer! 📚
 - 😇  Pronouns: he/him 
 - Currently learning French 🇫🇷, Cantonese, and Mandarin 🍊 
 - 📂  I’m looking to contribute to open source software
