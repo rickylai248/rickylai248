@@ -4,8 +4,8 @@
 ### 📘 About Me
 - 😇  Pronouns: he/him 
 - Multilingual: Learning French 🇫🇷, Cantonese, and Mandarin 🍊 
-- 📂  I’m looking to contribute to open source software
-- ☕  Ask me about automobiles, debate, and tea
+- 📂  Looking into open source projects!
+- ☕  Ask me about automobiles, sneakers, and tea
 - Connect with me on [Linkedin!](https://www.linkedin.com/in/rickylai248/ "Ricky Lai Linkedin") 🔗
 <!--
 **rickylai248/rickylai248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
