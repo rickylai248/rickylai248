@@ -2,10 +2,10 @@
 - Third Year Computer Science and Business (BUCS) at the University of British Columbia (UBC)! 🇨🇦
 - Passionate about technology :octocat:, volunteering to help impoverished individuals 🌱, and lifelong learning📚
 ### 📘 About Me
-- 😇  Pronouns: he/him/his/them
+- 😇   Pronouns: he/him/his/them
 - Multilingual: Learning French 🇫🇷, Cantonese, and Mandarin 🍊 
-- 📂  Looking into open source projects!
-- ☕  Talk to me about automobiles, sneakers, and memes
+- 📂   Looking into open source projects!
+- ☕   Talk to me about automobiles, sneakers, and memes
 - Connect with me on [Linkedin!](https://www.linkedin.com/in/rickylai248/ "Ricky Lai Linkedin") 🔗
 <!--
 **rickylai248/rickylai248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
