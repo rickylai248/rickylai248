@@ -2,7 +2,7 @@
 - Third Year Computer Science and Business (BUCS) at the University of British Columbia (UBC)! 🇨🇦
 - Passionate about technology :octocat:, volunteering to help impoverished individuals 🌱, and lifelong learning📚
 ### 📘 About Me
-- 😇  Pronouns: he/him 
+- 😇  Pronouns: he/him/his/them
 - Multilingual: Learning French 🇫🇷, Cantonese, and Mandarin 🍊 
 - 📂  Looking into open source projects!
 - ☕  Talk to me about automobiles, sneakers, and memes
