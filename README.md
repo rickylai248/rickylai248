@@ -1,5 +1,5 @@
 ### Hello World! I'm Ricky Lai 👋
-- 3rd Computer Science and Business (BUCS) at the University of British Columbia (UBC)! 🇨🇦
+- 3rd year Computer Science and Business (BUCS) at the University of British Columbia (UBC)! 🇨🇦
 - Passionate about technology :octocat:, volunteering to help impoverished individuals 🌱, and lifelong learning📚
 ### 📘 About Me
 - 😇   Pronouns: he/him/his/them
