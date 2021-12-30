@@ -1,6 +1,7 @@
 ### Hello World! I'm Ricky Lai 👋
-- 3rd year Computer Science and Business (BUCS) at the University of British Columbia (UBC)! 🇨🇦
+- 3rd year Computer Science and Business (BUCS) @ University of British Columbia (UBC) 🇨🇦
 - Passionate about technology :octocat:, volunteering to help impoverished individuals 🌱, and lifelong learning📚
+- Agile Developer Intern @ SAP
 ### 📘 About Me
 - 😇   Pronouns: he/him/his/them
 - Multilingual: Learning French 🇫🇷, Cantonese, and Mandarin 🍊 
