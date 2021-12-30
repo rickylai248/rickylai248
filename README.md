@@ -1,12 +1,12 @@
 ### Hello World! I'm Ricky Lai 👋
 - 3rd year Computer Science and Business (BUCS) @ University of British Columbia (UBC) 🇨🇦
 - Passionate about technology :octocat:, volunteering to help impoverished individuals 🌱, and lifelong learning📚
-- Agile Developer Intern @ SAP
+- Agile Developer Intern @ SAP 💻
 ### 📘 About Me
 - 😇   Pronouns: he/him/his/them
 - Multilingual: Learning French 🇫🇷, Cantonese, and Mandarin 🍊 
 - 📂   Looking into open source projects!
-- ☕   Talk to me about automobiles, sneakers, and memes
+- ☕   Talk to me about cars, sneakers, and memes
 - Connect with me on [Linkedin!](https://www.linkedin.com/in/rickylai248/ "Ricky Lai Linkedin") 🔗
 <!--
 **rickylai248/rickylai248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
