@@ -6,7 +6,7 @@
 - 😇   Pronouns: he/him/his/them
 - Multilingual: Learning French 🇫🇷, Cantonese, and Mandarin 🍊 
 - 📂   Looking into open source projects!
-- ☕   Talk to me about cars, sneakers, and memes
+- ☕   Talk to me about cars, sneakers, and computers
 - Connect with me on [Linkedin!](https://www.linkedin.com/in/rickylai248/ "Ricky Lai Linkedin") 🔗
 <!--
 **rickylai248/rickylai248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
