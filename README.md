@@ -1,7 +1,7 @@
 ### Hi! I'm Ricky 👋
 - Computer Science and Business (BUCS) @ University of British Columbia (UBC) 🇨🇦 (Exp. 2024)
 - Passionate about technology :octocat:, volunteering to help impoverished individuals 🌱, and lifelong learning📚
-- Currently: Agile Developer Intern @ SAP 💻
+- Current: Software Developer Intern @ SAP 💻
 
 ### 📘 About Me
 - 😇   Pronouns: he/him/his/them
