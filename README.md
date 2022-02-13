@@ -1,5 +1,5 @@
-### Hi! I'm Ricky 👋
-- My name is Ricky and I am a junior studying Computer Science and Business (BUCS) @ University of British Columbia (UBC) 🇨🇦 (Exp. 2024)
+### Hi there, thanks for visiting!! 👋
+- My name is Ricky and I am a junior studying Computer Science and Business (BUCS) @ University of British Columbia (UBC) 🇨🇦 
 - Passionate about technology :octocat:, volunteering to help impoverished individuals 🌱, and lifelong learning📚
 - Current: Software Developer Intern @ SAP 💻
 
