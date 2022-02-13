@@ -6,6 +6,6 @@
 ### 📘 About Me
 - 😇   Pronouns: he/him/his/them
 - Multilingual: Learning French 🇫🇷, Cantonese, and Mandarin 🍊 
-- 📂   Looking into open source projects and Fall 2022 SWE internships!
+- 📂   Looking into open source projects and SWE internships!
 - ☕   Talk to me about cars, sneakers, and computers
 - Connect with me on [Linkedin!](https://www.linkedin.com/in/rickylai248/ "Ricky Lai Linkedin") 🔗
