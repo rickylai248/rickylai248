@@ -2,6 +2,7 @@
 - My name is Ricky and I am a junior studying Computer Science and Business @ University of British Columbia (UBC)
 - Passionate about technology :octocat:, volunteering to help impoverished individuals 🌱, and lifelong learning📚
 - Previous: Software Developer Intern @ SAP 💻
+- Activities: Microsoft Technical Resilence Program Mentee, Meta Above and Beyond CS Fellow
 
 ### 📘 About Me
 - 😇   Pronouns: he/him/his/them
