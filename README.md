@@ -1,8 +1,7 @@
 ### Hi there, thanks for visiting!! 👋
 - My name is Ricky and I am a senior studying Computer Science and Business @ University of British Columbia (UBC)
 - Passionate about technology :octocat:, volunteering to help impoverished individuals 🌱, and lifelong learning📚
-- Incoming Fall 2023 SWE Intern
-- Previous: Software Developer Intern @ SAP 💻
+- Exp: SWE Intern @ Tesla, SDE Intern @ SAP 💻
 - Activities: Microsoft Technical Resilence Program Mentee, Meta Above and Beyond CS Fellow
 
 ### 📘 About Me
