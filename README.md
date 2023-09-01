@@ -1,5 +1,5 @@
 ### Hi there, thanks for visiting!! 👋
-- My name is Ricky and I am studying Computer Science and Business @ University of British Columbia (UBC)
+- My name is Ricky and I am studying Computer Science and Business @ University of British Columbia (UBC) Grad 2024
 - Passionate about technology :octocat:, volunteering to help impoverished individuals 🌱, and lifelong learning📚!
 - SWE Intern @ Tesla 🚗
 - SDE Intern @ SAP ☁️ 💻 
