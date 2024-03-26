@@ -1,8 +1,7 @@
 ### Hi there, thanks for visiting!! 👋
 - My name is Ricky and I am studying Computer Science and Business @ University of British Columbia (UBC) - 2024 Grad
 - Passionate about technology :octocat:, volunteering to give back to the community 🌱, and lifelong learning📚!
-- SWE Intern @ Tesla 🚗
-- SDE Intern @ SAP ☁️ 💻 
+- Previous SWE/SDE Internship Exp @ Tesla 🚗, SAP 💻 
 
 ### 📘 About Me
 - 😇   Pronouns: he/him/his/them
