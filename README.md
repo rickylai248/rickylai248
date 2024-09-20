@@ -1,5 +1,6 @@
 ### Hi there, thanks for visiting!! 👋
 - My name is Ricky and I studied Computer Science and Business @ University of British Columbia (UBC)
+- Current: SWE
 - Passionate about technology :octocat:, volunteering to give back to the community 🌱, and lifelong learning📚!
 - Prev SWE/SDE Intern @ Tesla 🚗, SAP 💻 
 
