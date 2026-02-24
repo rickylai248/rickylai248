@@ -1,7 +1,7 @@
 ### Hi there, thanks for visiting!! 👋
 - My name is Ricky and I studied Computer Science and Business @ University of British Columbia (UBC)
-- Current: SWE
-- Passionate about technology :octocat:, volunteering to give back to the community 🌱, and lifelong learning📚!
+- Backend-focused Software Engineer
+- Passionate about technology :octocat:, giving back to the community 🌱, and lifelong learning📚!
 - EA 🎮, Tesla 🚗, SAP 💻 
 
 ### 📘 About Me
